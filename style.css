@@ -1,0 +1,111 @@
+body{
+    background-image: url(fondo\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+main{
+    text-align: center;
+}
+
+.transparent-box {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 60px;
+    color: #fff;
+    margin: 90px auto;
+    width: 780px;
+    border-radius: 10px;
+    font-size: 26px;
+  }
+
+
+  .imagen{
+    width: 200px;
+    
+  }
+
+  .box2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 60px;
+    color: #fff;
+    margin: 30px auto;
+    border-radius: 10px;
+    font-size: 26px;
+    width: 780px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+  }
+  
+  .box2 {
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .box3{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 60px;
+    color: #fff;
+    margin: 90px auto;
+    width: 780px;
+    border-radius: 10px;
+    font-size: 26px;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  }
+
+  .buttom {
+    text-align: center;
+    margin-bottom: 90px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    display: inline-block;
+   align-items: center;
+  
+  }
+  
+  .buttom {
+    display: inline-block;
+    padding: 15px 80px;
+    background-color: rgba(2, 2, 2, 0.7);
+    color: #ffffff;
+    text-decoration: none;
+    margin: 25px;
+    border-radius: 10px;
+    transition: background-color 0.3s, color 0.3s;
+    
+  }
+  
+  .buttom:hover {
+    background-color: #111010;
+    color: #fff;
+    box-shadow: 0 0 10px #552366, 0 0 40px #552366, 0 0 80px #552366 ;
+  }
+
+  header{
+    text-align: center;
+  }
+
+  .box4{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 60px;
+    color: #fff;
+    margin: 90px auto;
+    width: 780px;
+    border-radius: 10px;
+    font-size: 26px;
+  }
