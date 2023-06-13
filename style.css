@@ -21,7 +21,7 @@ main{
     padding: 60px;
     color: #fff;
     margin: 90px auto;
-    width: 780px;
+    width: 900px;
     border-radius: 10px;
     font-size: 26px;
   }
@@ -39,7 +39,7 @@ main{
     margin: 30px auto;
     border-radius: 10px;
     font-size: 26px;
-    width: 780px;
+    width: 900px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -57,7 +57,7 @@ main{
     padding: 60px;
     color: #fff;
     margin: 90px auto;
-    width: 780px;
+    width: 900px;
     border-radius: 10px;
     font-size: 26px;
     display: flex;
@@ -105,7 +105,24 @@ main{
     padding: 60px;
     color: #fff;
     margin: 90px auto;
-    width: 780px;
+    width: 900px;
     border-radius: 10px;
     font-size: 26px;
+    display: flex ;
   }
+
+  .texto {
+    margin-right: 40px;
+    text-align: left;
+    overflow: hidden;
+ }
+
+    .Lou {
+        
+        max-width: 120%;
+        height: 390px;
+        float: left;
+        margin-right: 40px;
+        transform: translateY(160px);
+
+      } 
